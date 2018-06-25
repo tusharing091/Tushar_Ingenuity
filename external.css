@@ -1,0 +1,15 @@
+#gameName{
+    text-align:center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #006699;
+    font-size: 5em;
+    padding: 0;
+    margin: 0
+}
+
+#styleNew{
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}

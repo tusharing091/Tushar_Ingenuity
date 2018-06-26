@@ -37,7 +37,7 @@
     padding: 0;
     display: inline;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 16px;
+    font-size: 15px;
     font-weight: bold;
     vertical-align: middle;
     color: azure
@@ -45,16 +45,8 @@
 }
 #p2
 {
-    margin: 0;
-    padding: 0;
-    display: inline;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 15px;
-    font-weight: bold;
-    vertical-align: middle;
-    top: -5px;
+    top: -4px;
     position: relative;
-    color: azure
 
 }
 
@@ -74,7 +66,7 @@
 .pst{
     text-align: left;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 15px;
     color: azure
 
 }
